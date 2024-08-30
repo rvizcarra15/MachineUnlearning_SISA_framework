@@ -3,6 +3,7 @@ A guide to removing the impact of individual data points in AI training using th
 
 Access the full article here: 
 Learning to Unlearn: Why Data Scientists and AI Practitioners Should Understand Machine Unlearning
+
 https://medium.com/towards-data-science/learning-to-unlearn-why-data-scientists-and-ai-practitioners-should-understand-machine-unlearning-866af9e5d712
 
 
